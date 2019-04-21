@@ -463,3 +463,6 @@ body {
     top: -23px;
     left: 0;
 }
+button:hover, .send:hover{
+	background: linear-gradient(90deg, #a78c5f 0%, #f9e5c4 100%);
+}
